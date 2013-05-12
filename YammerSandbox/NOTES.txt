@@ -1,0 +1,15 @@
+
+Environment Setup
+1. Eclipse Juno (4.2) SR2
+2. Sign-up for Google App Engine (https://appengine.google.com/)
+2. Install Google Plug-in for Eclipse (http://dl.google.com/eclipse/plugin/4.2)
+   ** Install everything except "NDK Plugins". 
+3. Need JDK installed to compile JSP files.
+4. Need JSON parser (Jackson vs. GSon)
+5. Currently doing OAuth manually, Scribe doesn't seem to work for Yammer.
+   ** Google's OAuth won't work, it's Google Accounts specific.
+
+LEFT OFF
+* Got the OAuth flow working to the point of receiving the initial JSON response with user details.
+* Next up is to make an independent REST query of the APIs.
+* Probably will need a framework for making these queries (vs URLConnection).

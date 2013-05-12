@@ -1,0 +1,174 @@
+{
+"network": {
+	"type":"network",
+	"is_chat_enabled":true,
+	"moderated":true,
+	"community":false,
+	"paid":true,
+	"header_background_color":"#275E2B",
+	"name":"Cargill",
+	"is_org_chart_enabled":false,
+	"web_url":"https://www.yammer.com/cargill.com",
+	"header_text_color":"#000000",
+	"is_group_enabled":true,
+	"created_at":"2012/03/22 17:04:48 +0000",
+	"permalink":"cargill.com",
+	"show_upgrade_banner":false,
+	"id":344677,
+	"profile_fields_config":{
+		"enable_job_title":true,
+		"enable_work_phone":true,
+		"enable_mobile_phone":true
+		},
+	"navigation_background_color":"#38699F",
+	"navigation_text_color":"#FFFFFF"
+	},
+"user":{
+	"type":"user",
+	"full_name":"Darin Hawley",
+	"mugshot_url_template":"https://mug0.assets-yammer.com/mugshot/images/{width}x{height}/XgJrrGql6hdsMq2t4PNp33BVrtGGn1tP",
+	"significant_other":"Saima",
+	"verified_admin":"true",
+	"kids_names":"Emma, Kate",
+	"timezone":"Central Time (US \u0026 Canada)",
+	"guid":null,
+	"location":"Hopkins, MN",
+	"last_name":"Hawley",
+	"hire_date":null,
+	"name":"darinhawley",
+	"schools":
+		[{
+			"school":"Carlson School of Management (UMN)",
+			"start_year":2008,
+			"description":"In-Progress",
+			"degree":"Masters of Business Administration",
+			"end_year":0
+		},{
+			"school":
+			"North Dakota State University",
+			"start_year":1993,
+			"description":"",
+			"degree":"Bachelors in Computer Science",
+			"end_year":1997
+		}],
+	"birth_date":"February",
+	"mugshot_url":"https://mug0.assets-yammer.com/mugshot/images/48x48/XgJrrGql6hdsMq2t4PNp33BVrtGGn1tP",
+	"settings":{
+		"xdr_proxy":"https://xdrproxy.yammer.com"
+	},
+	"network_domains":[
+		"cargill.com",
+		"provimipetfood.ru",
+		"akey.com",
+		"alimental.com",
+		"awb.com.au",
+		"be.provimi.com",
+		"black-river.com",
+		"cargillcartaijv.com",
+		"agribrands.ca",
+		"cargillinc.com",
+		"carval.com",
+		"celticrus.com",
+		"citura.com",
+		"citura-na.com",
+		"cn.provimi.com",
+		"crgl-thirdparty.com",
+		"diagnosticovet.com",
+		"feedsys.com",
+		"fr.provimi.com",
+		"gr.provimi.com",
+		"hu.provimi.com",
+		"igma.nl",
+		"it.provimi.com",
+		"lnb.pl",
+		"nanutrition.com",
+		"neolait.com",
+		"nl.provimi.com",
+		"nutec.ltd.uk",
+		"nutral.com",
+		"nutron.com.br",
+		"pipasa.net",
+		"pipasa.net.ni",
+		"prognutrition.com",
+		"protector.ch",
+		"pro-vial.com",
+		"pro-vilys.com",
+		"provimibeijing.com",
+		"provimi-bg.com",
+		"provimi.ca",
+		"provimi.com",
+		"provimi.com.co",
+		"provimi.com.jo",
+		"provimi.co.uk","provimi.gr","provimiholding.com","provimi.ie","provimi.in","provimi-kliba.ch","provimila.com","provimimexico.com","provimi-na.com","agribrands.com","provimi.pl","provimisourcing.com","provim.ua","pt.provimi.com","ro.provimi.com","ru.provimi.com","scaiberica.com","scanutec.com","scanutrition.com","sk.provimi.com","sunglofeeds.com","ua.provimi.com","us.provimi.com","vigortone.com","vn.provimi.com","za.provimi.com","zootech.com"
+		],
+	"url":"https://www.yammer.com/api/v1/users/10503164",
+	"web_url":"https://www.yammer.com/cargill.com/users/darinhawley",
+	"expertise":"Architecture, Design, Data Modeling, Identity Management, SharePoint, Java","summary":
+	"I joined Cargill in 1997 and have held various roles in software engineering, system administration, solution architecture, technology research, ERP support, system / data integration, and enterprise architecture. My current role in Enterprise Architecture is focused on Master Data Management, Data Quality, and Metadata.\r\n\r\nSome personality stuff done over the years at Cargill...\r\n\r\nMeyers Briggs: INFP (Introverted iNtuitive Feeling Perceiving - Visionary/Idealist) \r\nStrengths: Relator, Strategic, Input, Learner, Adaptability \r\nTrue Colors: Orange/Action, Green/Analysis, Blue/Harmony, Yellow/Duty (most to least)\r\nCreatrix: Practicalizer",
+	"interests":"Web 2.0, Guitar, Ardunio, Coffee, BWCA",
+	"state":"active",
+	"stats":{"followers":154,"updates":929,"following":249},
+	"can_broadcast":"true",
+	"department":"Enterprise Architecture",
+	"id":10503164,
+	"previous_companies":[{
+		"start_year":1997,
+		"description":"Java/Web Applications in Corporate IT",
+		"end_year":2001,
+		"position":"Software Engineer",
+		"employer":"Cargill"
+		},{
+		"start_year":2001,"description":"Java Architecture and Standards in Corporate IT","end_year":2003,"position":"Java Technologist","employer":"Cargill"
+		},{
+		"start_year":2003,"description":"Adage ERP, Solution Architecture, Application and Data Integration in FIS IT","end_year":2007,"position":"Application / Integration Architect","employer":"Cargill"
+		},{
+		"start_year":2008,"description":"Appplications, Security, and Master Data in Tartan","end_year":0,"position":"Enterprise Architect","employer":"Cargill"
+		}],
+	"first_name":"Darin",
+	"network_id":344677,
+	"network_name":"Cargill",
+	"job_title":"Enterprise Architect",
+	"show_ask_for_photo":false,
+	"activated_at":"2012/04/19 19:12:10 +0000",
+	"admin":"true",
+	"contact":{
+		"has_fake_email":false,
+		"email_addresses":[{
+			"type":"primary",
+			"address":"darin_hawley@cargill.com"
+			}],
+		"im":{
+			"username":"darin.hawley",
+			"provider":"gtalk"
+			},
+		"phone_numbers":[{
+			"type":"work",
+			"number":"952.984.2279"
+			},{
+			"type":"mobile",
+			"number":"763.213.5610"
+			}]
+		},
+	"external_urls":[
+		"https://www.facebook.com/darin.hawley",
+		"http://www.linkedin.com/pub/darin-hawley/0/47a/978"
+		]
+	},
+"access_token":{
+	"modify_messages":true,
+	"view_subscriptions":true,
+	"modify_subscriptions":true,
+	"expires_at":null,
+	"network_permalink":"cargill.com",
+	"view_tags":true,
+	"view_messages":true,
+	"created_at":"2012/12/16 21:11:44 +0000",
+	"view_groups":true,
+	"token":"VhWqmOVt1xRxQj0A7fGAZg",
+	"network_id":344677,
+	"view_members":true,
+	"user_id":10503164,
+	"network_name":"Cargill",
+	"authorized_at":"2012/12/16 21:11:44 +0000"
+	}
+}
